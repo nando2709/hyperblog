@@ -1,4 +1,10 @@
+<<<<<<< HEAD
+Esta es la historia de Freddy Vega
+Freddy Vega tiene 32 años y nacio en colombia
+Mañana nos enfocaremos en su vida laboral  
+=======
 Esta es mi historia 
 Hola me llamo Fernando y tengo 100 años y vivo en Paita
 
 Github es muy importante que tienes que aprender
+>>>>>>> eefe60bde96fd438b2a42a3970535d53cfd6ec66
